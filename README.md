@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello,Github👋
+🫡🫡🫡
+***
+- #### There is my profile:   
+    - 🌱  I'm a student,I'm currently learing C programming language.   
+    -  🥰 I'm happyly to join this open source family!
+  
+- ### Img test
+  ![This is a picture](/img/4.png)
+  >This picture is  made by Blender.
+  >Also a try for water ink style learing.
 
 <!--
 **skyloved1/skyloved1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
